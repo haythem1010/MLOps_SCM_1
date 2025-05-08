@@ -36,7 +36,3 @@ MLOps is the practice of combining **Machine Learning** and **DevOps** to automa
 - **Model retraining and rollback**
 
 MLOps helps in scaling ML workflows and maintaining reliable, reproducible, and efficient pipelines.
-
----
-
-> “Machine Learning is the engine, MLOps is the road it drives on.”
