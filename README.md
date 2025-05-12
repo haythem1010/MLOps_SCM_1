@@ -30,7 +30,7 @@ MLOps is the practice of combining **Machine Learning** and **DevOps** to automa
 
 ### Key Components:
 
--# **Versioning** of data and models
+- **Versioning** of data and models
 - **Continuous Integration/Continuous Deployment (CI/CD)**
 - **Monitoring and logging**
 - **Model retraining and rollback**
